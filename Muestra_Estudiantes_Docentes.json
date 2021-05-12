@@ -2,32 +2,32 @@
    "provincias":[
       {
          "provincia":"Pichincha",
-         "indice_estudiantes_docentes":7.09,
-         "docentes":2509,
-         "estudiantes":302
+         "indice_estudiantes_docentes":15.94,
+         "docentes":4127,
+         "estudiantes":81927
       }
 ],
 	"distribucion_ciudades":{
       "Pichincha":[
          {
             "x":1,
-            "y":1
+            "y":17.33
          },
          {
             "x":2,
-            "y":3
+            "y":17.00
          },
          {
             "x":3,
-            "y":12
+            "y":16.97
          },
          {
             "x":4,
-            "y":20
+            "y":16.97
          },
          {
             "x":5,
-            "y":347
+            "y":16.64
          }
       ]
    }
