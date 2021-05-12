@@ -6,6 +6,12 @@
          "docentes":4127,
          "estudiantes":8
       }
+	  {
+         "provincia":"Azuay",
+         "indice_estudiantes_docentes":15.94,
+         "docentes":4127,
+         "estudiantes":8
+      }
 ],
 	"distribucion_ciudades":{
       "Pichincha":[
@@ -28,6 +34,28 @@
          {
             "x":5,
             "y":16.64
+         }
+      ]
+	  "Azuay":[
+         {
+            "x":1,
+            "y":18.75
+         },
+         {
+            "x":2,
+            "y":17.20
+         },
+         {
+            "x":3,
+            "y":16.08
+         },
+         {
+            "x":4,
+            "y":16.00
+         },
+         {
+            "x":5,
+            "y":15.65
          }
       ]
    }
