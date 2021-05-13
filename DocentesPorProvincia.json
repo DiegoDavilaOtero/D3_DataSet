@@ -1,102 +1,127 @@
 [
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 30
 }, 
 {
 "provincia": "Imbabura",
-"cantidad_docentes": 300
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 45
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 3660
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 3770
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 32
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 34,
+"cantidad_docentes_m": 30
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 3550,
+"cantidad_docentes_m": 36890
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 306
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 30
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 304
+"cantidad_docentes_h": 3760,
+"cantidad_docentes_m": 3220
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 307
+"cantidad_docentes_h": 3340,
+"cantidad_docentes_m": 457
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 308
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 30
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 303
+"cantidad_docentes_h": 432,
+"cantidad_docentes_m": 9099
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 302
+"cantidad_docentes_h": 3420,
+"cantidad_docentes_m": 3560
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 300
+"cantidad_docentes_h": 1222,
+"cantidad_docentes_m": 34560
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3077
+"cantidad_docentes_h": 554,
+"cantidad_docentes_m": 345
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3023
+"cantidad_docentes_h": 454,
+"cantidad_docentes_m": 334
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3065
+"cantidad_docentes_h": 976,
+"cantidad_docentes_m": 30
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3034
+"cantidad_docentes_h": 445,
+"cantidad_docentes_m": 3780
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3057
+"cantidad_docentes_h": 334,
+"cantidad_docentes_m": 223
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3072
+"cantidad_docentes_h": 9977,
+"cantidad_docentes_m": 3440
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 4566
+"cantidad_docentes_h": 3550,
+"cantidad_docentes_m": 555
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 30
+"cantidad_docentes_h": 7864,
+"cantidad_docentes_m": 3343
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 872
+"cantidad_docentes_h": 30,
+"cantidad_docentes_m": 30
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 3345
+"cantidad_docentes_h": 22130,
+"cantidad_docentes_m": 30
 },
 {
 "provincia": "Pichincha",
-"cantidad_docentes": 349
+"cantidad_docentes_h": 456,
+"cantidad_docentes_m": 333
 }
 ]
