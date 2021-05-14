@@ -1,127 +1,122 @@
 [
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 30
+"provincia": "Pichincha",
+"cantidad_docentes_h": 1050,
+"cantidad_docentes_m": 3077
 }, 
 {
 "provincia": "Imbabura",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 45
+"cantidad_docentes_h": 291,
+"cantidad_docentes_m": 632
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 3660
+"provincia": "Azuay",
+"cantidad_docentes_h": 369,
+"cantidad_docentes_m": 792
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 3770
+"provincia": "Bolivar",
+"cantidad_docentes_h": 160,
+"cantidad_docentes_m": 237
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 32
+"provincia": "Cañar",
+"cantidad_docentes_h": 72,
+"cantidad_docentes_m": 252
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 34,
-"cantidad_docentes_m": 30
+"provincia": "Carchi",
+"cantidad_docentes_h": 159,
+"cantidad_docentes_m": 279
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 3550,
-"cantidad_docentes_m": 36890
+"provincia": "Chimborazo",
+"cantidad_docentes_h": 358,
+"cantidad_docentes_m": 503
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 30
+"provincia": "Cotopaxi",
+"cantidad_docentes_h": 233,
+"cantidad_docentes_m": 372
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 3760,
-"cantidad_docentes_m": 3220
+"provincia": "El Oro",
+"cantidad_docentes_h": 252,
+"cantidad_docentes_m": 651
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 3340,
-"cantidad_docentes_m": 457
+"provincia": "Esmeraldas",
+"cantidad_docentes_h": 227,
+"cantidad_docentes_m": 701
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 30
+"provincia": "Galápagos",
+"cantidad_docentes_h": 0,
+"cantidad_docentes_m": 3
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 432,
-"cantidad_docentes_m": 9099
+"provincia": "Guayas",
+"cantidad_docentes_h": 1044,
+"cantidad_docentes_m": 4034
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 3420,
-"cantidad_docentes_m": 3560
+"provincia": "Loja",
+"cantidad_docentes_h": 209,
+"cantidad_docentes_m": 466
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 1222,
-"cantidad_docentes_m": 34560
+"provincia": "Los Ríos",
+"cantidad_docentes_h": 253,
+"cantidad_docentes_m": 1009
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 554,
-"cantidad_docentes_m": 345
+"provincia": "Manabí",
+"cantidad_docentes_h": 630,
+"cantidad_docentes_m": 1433
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 454,
-"cantidad_docentes_m": 334
+"provincia": "Morona Santiago",
+"cantidad_docentes_h": 98,
+"cantidad_docentes_m": 126
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 976,
-"cantidad_docentes_m": 30
+"provincia": "Napo",
+"cantidad_docentes_h": 58,
+"cantidad_docentes_m": 68
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 445,
-"cantidad_docentes_m": 3780
+"provincia": "Orellana",
+"cantidad_docentes_h": 53,
+"cantidad_docentes_m": 65
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 334,
-"cantidad_docentes_m": 223
+"provincia": "Pastaza",
+"cantidad_docentes_h": 75,
+"cantidad_docentes_m": 108
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 9977,
-"cantidad_docentes_m": 3440
+"provincia": "Santa Elena",
+"cantidad_docentes_h": 234,
+"cantidad_docentes_m": 498
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 3550,
-"cantidad_docentes_m": 555
+"provincia": "Santo Domingo de los Tsáchilas",
+"cantidad_docentes_h": 196,
+"cantidad_docentes_m": 449
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 7864,
-"cantidad_docentes_m": 3343
+"provincia": "Sucumbios",
+"cantidad_docentes_h": 65,
+"cantidad_docentes_m": 127
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 30,
-"cantidad_docentes_m": 30
+"provincia": "Tungurahua",
+"cantidad_docentes_h": 223,
+"cantidad_docentes_m": 474
 },
 {
-"provincia": "P",
-"cantidad_docentes_h": 22130,
-"cantidad_docentes_m": 30
-},
-{
-"provincia": "P",
-"cantidad_docentes_h": 456,
-"cantidad_docentes_m": 333
+"provincia": "Zamora Chinchipe",
+"cantidad_docentes_h": 100,
+"cantidad_docentes_m": 133
 }
 ]
