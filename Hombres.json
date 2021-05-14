@@ -1,0 +1,98 @@
+[
+{
+"nombre_provincia": "Pichincha",
+"docentes_h": 1050
+}, 
+{
+"nombre_provincia": "Imbabura",
+"docentes_h": 291
+},
+{
+"nombre_provincia": "Azuay",
+"docentes_h": 369
+},
+{
+"nombre_provincia": "Bolivar",
+"docentes_h": 160
+},
+{
+"nombre_provincia": "Cañar",
+"docentes_h": 72
+},
+{
+"nombre_provincia": "Carchi",
+"docentes_h": 159
+},
+{
+"nombre_provincia": "Chimborazo",
+"docentes_h": 358
+},
+{
+"nombre_provincia": "Cotopaxi",
+"docentes_h": 233
+},
+{
+"nombre_provincia": "El Oro",
+"docentes_h": 252
+},
+{
+"nombre_provincia": "Esmeraldas",
+"docentes_h": 227
+},
+{
+"nombre_provincia": "Galápagos",
+"docentes_h": 0
+},
+{
+"nombre_provincia": "Guayas",
+"docentes_h": 1044
+},
+{
+"nombre_provincia": "Loja",
+"docentes_h": 209
+},
+{
+"nombre_provincia": "Los Ríos",
+"docentes_h": 253
+},
+{
+"nombre_provincia": "Manabí",
+"docentes_h": 630
+},
+{
+"nombre_provincia": "Morona Santiago",
+"docentes_h": 98
+},
+{
+"nombre_provincia": "Napo",
+"docentes_h": 58
+},
+{
+"nombre_provincia": "Orellana",
+"docentes_h": 53
+},
+{
+"nombre_provincia": "Pastaza",
+"docentes_h": 75
+},
+{
+"nombre_provincia": "Santa Elena",
+"docentes_h": 234
+},
+{
+"nombre_provincia": "Santo Domingo de los Tsáchilas",
+"docentes_h": 196
+},
+{
+"nombre_provincia": "Sucumbios",
+"docentes_h": 65
+},
+{
+"nombre_provincia": "Tungurahua",
+"docentes_h": 223
+},
+{
+"nombre_provincia": "Zamora Chinchipe",
+"docentes_h": 100
+}
+]
